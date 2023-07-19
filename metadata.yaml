@@ -1,0 +1,38 @@
+_repo: Les-voix-qui-crient-dans-le-desert_71199
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mangin, Charles
+    gutenberg_agent_id: '56115'
+    url: http://www.gutenberg.org/2009/agents/56115
+creator:
+  author:
+    agent_name: Psichari, Ernest
+    alias: Psichari, Ernest Spriridion Jean Nicolas
+    birthdate: 1883
+    deathdate: 1914
+    gutenberg_agent_id: '54874'
+    url: http://www.gutenberg.org/2009/agents/54874
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ernest_Psichari
+    - https://fr.wikipedia.org/wiki/Ernest_Psichari
+description: ''
+gutenberg_issued: '2023-07-15'
+identifiers:
+  gutenberg: '71199'
+language: fr
+pgterms:marc904: https://archive.org/details/lesvoixquicrien00psic
+pgterms:marc905: 20220724005954psichari
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aFrance :$bLouis Conard, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les voix qui crient dans le désert
+url: http://www.gutenberg.org/ebooks/71199
