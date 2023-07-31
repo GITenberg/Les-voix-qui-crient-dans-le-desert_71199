@@ -5,6 +5,9 @@ contributor:
     agent_name: Mangin, Charles
     gutenberg_agent_id: '56115'
     url: http://www.gutenberg.org/2009/agents/56115
+covers:
+- cover_type: archival
+  image_path: 71199-h/images/cover.jpg
 creator:
   author:
     agent_name: Psichari, Ernest
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ernest_Psichari
     - https://fr.wikipedia.org/wiki/Ernest_Psichari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71199#Les-voix-qui-crient-dans-le-desert
 gutenberg_issued: '2023-07-15'
 identifiers:
   gutenberg: '71199'
